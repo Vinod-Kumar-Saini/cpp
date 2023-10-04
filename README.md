@@ -1,2 +1,4 @@
-# C-code-for-beginner
-Find GCD of a number using c . Its a very simple code how to find gcd of any number using c language.
+# EquilibriumPosition
+So, this code is based on how we can find the equilibrium position in an array.
+
+Note:- If you have any suggestion then help us.
